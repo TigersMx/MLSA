@@ -2,7 +2,7 @@
 
 # 📚 Rutas de aprendizaje de Microsoft Learn
 
-Este repositorio recopila algunas de las principales rutas de aprendizaje gratuitas de Microsoft para ayudarte a desarrollar habilidades en la nube, IA, datos, seguridad, desarrollo y más.
+Este repositorio recopila algunas de las principales rutas de aprendizaje gratuitas de Microsoft para ayudarte a desarrollar habilidades en la nube, IA, datos, seguridad y más.
 
 ---
 > ⚠️ **Nota importante:**  
