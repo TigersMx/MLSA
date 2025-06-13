@@ -5,10 +5,13 @@
 Este repositorio recopila algunas de las principales rutas de aprendizaje gratuitas de Microsoft para ayudarte a desarrollar habilidades en la nube, IA, datos, seguridad y más.
 
 ---
-> ⚠️ **Nota importante:**  
+> ⚠️ **Notas importantes:**  
 > Después de entrar al curso, **asegúrate de hacer clic en el botón “Comenzar”** en la parte izquierda de la página. ([Paso 4](./img/cap45.jpg))
 > 
 > 🔒 **Si no haces clic en “Comenzar”, tu progreso no se guardará** y no podrás hacer seguimiento de tu avance ni compartirlo con tu equipo o comunidad.
+> 
+> 📝 **Recuerda enviar tu evidencia en el formulario para llevar un seguimiento de tu progreso** [**Enviar evidencia aquí**](https://docs.google.com/forms/d/e/1FAIpQLSc-PVQR8njxZKZtbnTkb5tZIz8-ICPguZmwyZnrtvKr1EfDlw/viewform?usp=sharing&ouid=116941962524305950926) .
+
 
 ## 🗂️ Cursos
 
